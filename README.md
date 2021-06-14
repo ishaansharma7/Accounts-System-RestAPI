@@ -1,4 +1,4 @@
-# accounts-system-RestAPI
+# Accounts-System-RestAPI
 Complete accounts system with end user and admin user functionality.\
 Used JWT for authentication, added permissions, email verification, password reset email.
 
